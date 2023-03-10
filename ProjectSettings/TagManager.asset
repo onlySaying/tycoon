@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BackGround
+  - block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: floor
+    uniqueID: 3940303719
+    locked: 0
+  - name: Deco
+    uniqueID: 469297815
+    locked: 0
+  - name: wall
+    uniqueID: 3067334517
+    locked: 0
+  - name: things
+    uniqueID: 2035269585
+    locked: 0
+  - name: foods
+    uniqueID: 725022201
+    locked: 0
+  - name: topBox
+    uniqueID: 1293187217
+    locked: 0
+  - name: player
+    uniqueID: 831102697
+    locked: 0
+  - name: effector
+    uniqueID: 1363344587
+    locked: 0
