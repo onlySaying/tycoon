@@ -1,9 +1,11 @@
+# Hamburger Tycoon
+
 ## 플레이 데모
 **식자재 수집부터(hash에 저장) 햄버거 조립 로직(Stack 기반)까지 보여주는 플레이 데모입니다.**
 
 ![tycoon 2023-04-16 18-42-10](https://user-images.githubusercontent.com/48788534/232291239-dd7006b8-c971-475e-8074-a13988c666ac.gif)
 ![tycoon 2023-04-16 18-39-30](https://user-images.githubusercontent.com/48788534/232291246-c8db760a-ac00-49a7-b291-bedef6884266.gif)
-# Hamburger Tycoon
+
 
 ## 1. 프로젝트 개요
 유니티 엔진으로 제작한 햄버거 타이쿤 게임입니다.
